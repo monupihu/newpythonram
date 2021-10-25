@@ -1,4 +1,5 @@
 a = int(input("enter choose number: "))
 b = int(input("enter choose number: "))
-c = (a + B)
-print("c")
+c = (a + b)
+print(c)
+
